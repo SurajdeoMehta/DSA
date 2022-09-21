@@ -1,4 +1,4 @@
-
+https://www.hackerrank.com/challenges/cpp-input-and-output/problem?isFullScreen=true
 
 
 #include <iostream>
